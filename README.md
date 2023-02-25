@@ -1,6 +1,9 @@
 # Tugas Pekanan 6
 M Gusti Ramadhan
 
+## Video recording of the automation process 
+[Link Record](https://drive.google.com/file/d/1UwUOkmiuLVTQYhRWC7af4QdTv2VKVKLA/view?usp=sharing)
+
 ## How to install the required dependencies?
 
 use this command to install the required dependencies for this project
