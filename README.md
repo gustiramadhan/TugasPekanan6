@@ -1,5 +1,5 @@
 # Tugas Pekanan 6
-UI test using webDriver.io + cucumber task for sanberCode QA BootCamp
+M Gusti Ramadhan
 
 ## How to install the required dependencies?
 
