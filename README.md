@@ -1,6 +1,9 @@
 # Tugas Pekanan 6
 M Gusti Ramadhan
 
+## Test Case kasirAja
+[Link Test Case](https://docs.google.com/spreadsheets/d/1n8geh73iLHge4rW2nQ80izi6hHfRQgop8Yy6p-afI6U/edit#gid=0)
+
 ## Video recording of the automation process 
 [Link Record](https://drive.google.com/file/d/1UwUOkmiuLVTQYhRWC7af4QdTv2VKVKLA/view?usp=sharing)
 
